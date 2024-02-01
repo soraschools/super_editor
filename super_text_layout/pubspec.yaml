@@ -15,7 +15,7 @@ dependencies:
     git:
       url: https://github.com/soraschools/super_editor
       path: attributed_text
-      ref: 0fcc701dc2adca09d89c3181c766b110cbd14ea1
+      ref: fe7aa0b0226af637df664abe5264c7c22a33a318
   collection: ^1.18.0
   logging: ^1.0.1
 

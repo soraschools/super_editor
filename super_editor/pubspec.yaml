@@ -25,7 +25,7 @@ dependencies:
     git:
       url: https://github.com/soraschools/super_editor
       path: attributed_text
-      ref: 0fcc701dc2adca09d89c3181c766b110cbd14ea1
+      ref: fe7aa0b0226af637df664abe5264c7c22a33a318
   characters: ^1.2.0
   collection: ^1.15.0
   follow_the_leader: ^0.0.4+7
@@ -36,7 +36,7 @@ dependencies:
     git:
       url: https://github.com/soraschools/super_editor
       path: super_text_layout
-      ref: 0fcc701dc2adca09d89c3181c766b110cbd14ea1
+      ref: fe7aa0b0226af637df664abe5264c7c22a33a318
   url_launcher: ^6.1.9
   uuid: ^4.0.0
   overlord: ^0.0.3+4

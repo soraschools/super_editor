@@ -11,7 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  attributed_text: ^0.2.2
+  attributed_text:
+    git:
+      url: https://github.com/soraschools/super_editor
+      path: attributed_text
+      ref: 0fcc701dc2adca09d89c3181c766b110cbd14ea1
   collection: ^1.18.0
   logging: ^1.0.1
 

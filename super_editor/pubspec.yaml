@@ -36,7 +36,7 @@ dependencies:
     git:
       url: https://github.com/soraschools/super_editor
       path: super_text_layout
-      ref: fe7aa0b0226af637df664abe5264c7c22a33a318
+      ref: b6df92bbfed5d2e1ea989bd26c86578ee361be3d
   url_launcher: ^6.1.9
   uuid: ^4.0.0
   overlord: ^0.0.3+4
